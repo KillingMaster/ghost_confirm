@@ -2,7 +2,6 @@
 ## Description
 This is an Implementation of the submit Button That Avoids The Cursor While Forms
 is invalid or not filled.
-##DEMO
 `https://ghost-confirm.vercel.app/`
 
 ## Stack
